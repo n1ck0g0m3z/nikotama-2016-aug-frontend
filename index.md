@@ -67,7 +67,7 @@ layout: template1
     - ![]({{site.baseurl}}/screenshots/clone01.png)
 2. 中に表示されているテキストボックスをコピーしておきます.
 3. キーボードのWindowsマーク![]({{site.baseurl}}/screenshots/clone02.png)を押下します
-3. したの方に検索窓があるので **Git Bash**と打ち込み Git Bashを探します見つかったらクリック
+3. 右下の方に検索窓があるので **Git Bash**と打ち込み Git Bashを探します見つかったらクリック
 	- ![]({{site.baseurl}}/screenshots/clone03.png)
 4. 下記のような黒い画面が見えたらあなたも**プログラマ**　さぁ黒い画面と格闘していきましょう
 	- ![]({{site.baseurl}}/screenshots/clone04.png)
