@@ -120,7 +120,7 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 1. index.html を**メモ帳**で開いてみよう
 
 ```JavaScript
-$nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2015-Aug/master/api/get.js',function(res){
+$nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2016-aug-frontend/master/api/get.js',function(res){
 ```
 
 という行を
