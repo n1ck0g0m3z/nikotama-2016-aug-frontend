@@ -175,8 +175,6 @@ ac2f0d6..a3cdcbc  master -> master
 上記まですすめたら
 https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend
 をメールに返信してください
-**要相談->S**
-
 
 ## 次のステップ下記を読んで勉強してみよう
 
