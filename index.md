@@ -86,10 +86,13 @@ Checking connectivity... done.
 上記のような表示がでてきて... done.となったらclone完了
 
 4. ファイルを確認してみよう
-下記のコマンドを打って　clone したフォルダに移動しています
+下記のコマンドを打って($のあとの文字列をタイプして最後はエンターを押下!)　clone したフォルダに移動しています
 
 ```bash
 $ cd nikotama-2016-aug-frontend/ 
+```
+続けて。。
+```bash
 $ ls -lha
 ```
 
@@ -113,10 +116,10 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 {% include click_me.html %}
 
 ## アプリを編集してみよう
-1. index.html をテキストエディタで開いてみよう
+1. index.html を**メモ帳**で開いてみよう
 
 ```JavaScript
-$nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2015-Aug/master/api/get.js',function(data){
+$nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2015-Aug/master/api/get.js',function(res){
 ```
 
 という行を
