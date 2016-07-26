@@ -117,6 +117,7 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 
 ## アプリを編集してみよう
 1. index.html を**メモ帳**で開いてみよう
+
 ![]({{site.baseurl}}/screenshots/app01.png)
 
 ```JavaScript
