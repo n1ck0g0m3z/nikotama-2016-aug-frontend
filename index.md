@@ -111,7 +111,7 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 ```
 
 ## アプリを動かしてみよう 
-1. index.html というファイルをブラウザで開いてみます
+1. index.html というファイルをブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます
 そうすると。。　下記のような"Click ME!"というボタンがあるのでおしてみてください
 
 {% include click_me.html %}
