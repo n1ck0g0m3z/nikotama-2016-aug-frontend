@@ -14,7 +14,7 @@ layout: template1
 10. [次のステップ下記を読んで勉強してみよう](#section-3)
 
 ## Gitのインストール-Windows版
-1. [git for windows](https://git-for-windows.github.io/)というサイトに行きます。
+1. [git for windows](https://git-for-windows.github.io/)というサイトにアクセスします。
 	- ![]({{site.baseurl}}/screenshots/git_windows01.png)
 2. ダウンロードが完了すると、ダウンロードした実行形式ファイル(.exe)を実行してインストールしていきます。
 	- ![]({{site.baseurl}}/screenshots/git_windows02.png)
@@ -36,7 +36,7 @@ layout: template1
 [こちら(HomebrewでGitをインストールする)](http://qiita.com/micheleno13/items/133aee005ae37c28960e)をみてインストールしてみてください。　投げやりですみません。。
 
 ## githubアカウント作成
-1. [github](https://github.com/) というサイトに行きます。
+1. [github](https://github.com/) というサイトにアクセスします。
 	- **Pick a username**にユーザ名
 	- **Your email address**にあなたのメールアドレス
 	- **Create a password**にパスワードを入れます
@@ -56,13 +56,13 @@ layout: template1
     - **Verify email address** をクリック
     
 ## demoアプリをforkしてみよう
-1. [https://github.com/freddiefujiwara/nikotama-2016-aug-frontend/](https://github.com/freddiefujiwara/nikotama-2016-aug-frontend/) というページに行きます
+1. [https://github.com/freddiefujiwara/nikotama-2016-aug-frontend/](https://github.com/freddiefujiwara/nikotama-2016-aug-frontend/) というページにアクセスします。
 	- 右上にある**Fork**というアイコンをクリック
     - ![]({{site.baseurl}}/screenshots/fork01.png)
 2. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend というページができたらfork完了
 
 ## demoアプリをcloneしてみよう
-1. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/ に行きます。
+1. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/ にアクセスします。
 	- 緑のボタンClone or downloadをクリックします
     - ![]({{site.baseurl}}/screenshots/clone01.png)
 2. 中に表示されているテキストボックスをコピーしておきます.
@@ -73,7 +73,6 @@ $ git clone https://github.com/[あなたのアカウント]/nikotama-2016-aug-f
 ```
 
 そうすると。。。
-
 ```bash
 Cloning into 'nikotama-2016-aug-frontend'...
 remote: Counting objects: 203, done.
@@ -111,13 +110,14 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 ```
 
 ## アプリを動かしてみよう 
-1. index.html というファイルをブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます
-そうすると。。　下記のような"Click ME!"というボタンがあるのでおしてみてください
+1. index.html というファイルをブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます。
+そうすると。。　下記のような"Click ME!"というボタンがあるのでおしてみてください。
 
 {% include click_me.html %}
 
 ## アプリを編集してみよう
 1. index.html を**メモ帳**で開いてみよう
+![]({{site.baseurl}}/screenshots/app01.png)
 
 ```JavaScript
 $nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2016-aug-frontend/master/api/get.js',function(res){
