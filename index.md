@@ -69,6 +69,9 @@ layout: template1
 3. キーボードのWindowsマーク![]({{site.baseurl}}/screenshots/clone02.png)を押下します
 3. したの方に検索窓があるので **Git Bash**と打ち込み Git Bashを探します見つかったらクリック
 	- ![]({{site.baseurl}}/screenshots/clone03.png)
+4. 下記のような黒い画面が見えたらあなたも**プログラマ**　さぁ黒い画面と格闘していきましょう
+	- ![]({{site.baseurl}}/screenshots/clone04.png)
+5. 黒い画面に下記を打ち込んで($のあとの文字列をタイプして最後はエンターを押下!)いきます
 
 ```bash
 $ git clone https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.git                             
@@ -87,7 +90,7 @@ Checking connectivity... done.
 上記のような表示がでてきて... done.となったらclone完了
 
 4. ファイルを確認してみよう
-下記のコマンドを打って($のあとの文字列をタイプして最後はエンターを押下!)　clone したフォルダに移動しています
+下記のコマンドを打ってclone したフォルダに移動しています
 
 ```bash
 $ cd nikotama-2016-aug-frontend/ 
