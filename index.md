@@ -92,6 +92,7 @@ Checking connectivity... done.
 $ cd nikotama-2016-aug-frontend/ 
 ```
 続けて。。
+
 ```bash
 $ ls -lha
 ```
