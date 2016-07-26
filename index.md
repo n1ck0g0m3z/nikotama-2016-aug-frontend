@@ -139,11 +139,11 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 
 ## commitしてpushしてみよう
 1. ファイルを保存したら下記のコマンドをうってみよう
-**git --config XXXX** vimのコンフィグも入れる
-**デキる人は -mつけずにvimになれてみよう**
+
 ```bash
 $ git commit -m 'first commit' -a
 ```
+**上級編: -m　をつけずにcommitしてみよう**
 2. push!!
 
 ```bash
