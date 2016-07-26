@@ -148,7 +148,8 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 ```bash
 $ git commit -m 'first commit' -a
 ```
-**上級編: -m　をつけずにcommitしてみよう**
+**上級編: -m　をつけずにcommitしてみよう
+
 2. push!!
 
 ```bash
