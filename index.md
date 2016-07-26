@@ -66,7 +66,9 @@ layout: template1
 	- 緑のボタンClone or downloadをクリックします
     - ![]({{site.baseurl}}/screenshots/clone01.png)
 2. 中に表示されているテキストボックスをコピーしておきます.
-3. 先ほどセットアップした黒い画面コンソールにて下記を打ち込みます
+3. キーボードのWindowsマーク![]({{site.baseurl}}/screenshots/clone02.png)を押下します
+3. したの方に検索窓があるので **Git Bash**と打ち込み Git Bashを探します見つかったらクリック
+	- ![]({{site.baseurl}}/screenshots/clone03.png)
 
 ```bash
 $ git clone https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.git                             
