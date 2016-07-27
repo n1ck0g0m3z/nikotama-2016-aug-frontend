@@ -105,13 +105,13 @@ $ ls -lha
 
 ```bash
 total 1.9M                                                                                                                    
-drwxrwxr-x  4 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 .
-drwxr-xr-x 24 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.9M Jul 23 11:11 ..
-drwxrwxr-x  2 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 api
-drwxrwxr-x  8 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 .git
--rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.1K Jul 23 11:11 index.html
--rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.1K Jul 23 11:11 LICENSE
--rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント]   29 Jul 23 11:11 README.md
+drwxrwxr-x  4 [あなたのOS上のアカウント] [あなたのOS上のグループ] 4.0K Jul 23 11:11 .
+drwxr-xr-x 24 [あなたのOS上のアカウント] [あなたのOS上のグループ] 1.9M Jul 23 11:11 ..
+drwxrwxr-x  2 [あなたのOS上のアカウント] [あなたのOS上のグループ] 4.0K Jul 23 11:11 api
+drwxrwxr-x  8 [あなたのOS上のアカウント] [あなたのOS上のグループ] 4.0K Jul 23 11:11 .git
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のグループ] 1.1K Jul 23 11:11 index.html
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のグループ] 1.1K Jul 23 11:11 LICENSE
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のグループ]   29 Jul 23 11:11 README.md
 ```
 
 ## アプリを動かしてみよう 
