@@ -169,7 +169,7 @@ $ git config --global user.email [あなたのメールアドレス]
 ```bash
 $ git commit -m 'first commit' -a
 ```
-**上級編: -m　をつけずにcommitしてみよう
+**上級編: -m　をつけずにcommitしてみよう**
 
 - push!!
 
