@@ -105,13 +105,13 @@ $ ls -lha
 
 ```bash
 total 1.9M                                                                                                                    
-drwxrwxr-x  4 fumikazu fumikazu 4.0K Jul 23 11:11 .
-drwxr-xr-x 24 fumikazu fumikazu 1.9M Jul 23 11:11 ..
-drwxrwxr-x  2 fumikazu fumikazu 4.0K Jul 23 11:11 api
-drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
--rw-rw-r--  1 fumikazu fumikazu 1.1K Jul 23 11:11 index.html
--rw-rw-r--  1 fumikazu fumikazu 1.1K Jul 23 11:11 LICENSE
--rw-rw-r--  1 fumikazu fumikazu   29 Jul 23 11:11 README.md
+drwxrwxr-x  4 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 .
+drwxr-xr-x 24 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.9M Jul 23 11:11 ..
+drwxrwxr-x  2 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 api
+drwxrwxr-x  8 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 4.0K Jul 23 11:11 .git
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.1K Jul 23 11:11 index.html
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント] 1.1K Jul 23 11:11 LICENSE
+-rw-rw-r--  1 [あなたのOS上のアカウント] [あなたのOS上のアカウント]   29 Jul 23 11:11 README.md
 ```
 
 ## アプリを動かしてみよう 
@@ -123,10 +123,10 @@ $ pwd
 そうすると。。下記のような表示になるとおもいます
 
 ```bash
-/c/Users/fumikazu.fujiwara/nikotama-2016-aug-frontend/ 
+/c/Users/[あなたのOS上のアカウント]/nikotama-2016-aug-frontend/ 
 ```
 
-2. つまりC:\Users\fumikazu.fujiwara\nikotama-2016-aug-frontend\index.html というファイルがアプリですこれををブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます。
+2. つまりC:\Users\[あなたのOS上のアカウント]\nikotama-2016-aug-frontend\index.html というファイルがアプリですこれををブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます。
 そうすると。。　下記のような"Click ME!"というボタンがあるのでおしてみてください。
 
 {% include click_me.html %}
