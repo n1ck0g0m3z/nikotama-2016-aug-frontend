@@ -157,38 +157,38 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 - gitにあなたの名前とメールアドレスを設定しましょう
 
 ```bash
-	$ git config --global user.name "[あなたの名前]"
+$ git config --global user.name "[あなたの名前]"
 ```
 
 ```bash
-	$ git config --global user.email [あなたのメールアドレス]
+$ git config --global user.email [あなたのメールアドレス]
 ```
 
 - index.htmlを保存したら下記のコマンドをうってみよう
 
 ```bash
-	$ git commit -m 'first commit' -a
+$ git commit -m 'first commit' -a
 ```
 **上級編: -m　をつけずにcommitしてみよう
 
 - push!!
 
 ```bash
-	git push origin master                                                         
-	Username for 'https://github.com':[あなたのアカウント]
-	Password for 'https://[あなたのアカウント]@github.com':[あなたのパスワード]
+$ git push origin master                                                         
+Username for 'https://github.com':[あなたのアカウント]
+Password for 'https://[あなたのアカウント]@github.com':[あなたのパスワード]
 ```
 
 そうすると下記のような表示になったら完成
 
 ```bash
-	Counting objects: 6, done.                    
-	Delta compression using up to 2 threads.
-	Compressing objects: 100% (3/3), done.
-	Writing objects: 100% (3/3), 351 bytes | 0 bytes/s, done.
-	Total 3 (delta 2), reused 0 (delta 0)
-	To https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.git
-	ac2f0d6..a3cdcbc  master -> master
+Counting objects: 6, done.                    
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 351 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.git
+ac2f0d6..a3cdcbc  master -> master
 ```
 
 - https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/blob/master/index.html にいって変更が反映されたことを確認してみよう
