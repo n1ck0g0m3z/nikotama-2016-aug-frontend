@@ -154,14 +154,23 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 {% include click_me_github.html %}
 
 ## commitしてpushしてみよう
-1. ファイルを保存したら下記のコマンドをうってみよう
+1. gitにあなたの名前とメールアドレスを設定しましょう
+```bash
+$ git config --global user.name "[あなたの名前]"
+```
+
+```bash
+$ git config --global user.email [あなたのメールアドレス]
+```
+
+2. index.htmlを保存したら下記のコマンドをうってみよう
 
 ```bash
 $ git commit -m 'first commit' -a
 ```
 **上級編: -m　をつけずにcommitしてみよう
 
-2. push!!
+3. push!!
 
 ```bash
 git push origin master                                                         
@@ -181,7 +190,7 @@ To https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.g
 ac2f0d6..a3cdcbc  master -> master
 ```
 
-3. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/blob/master/index.html にいって変更が反映されたことを確認してみよう
+4. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/blob/master/index.html にいって変更が反映されたことを確認してみよう
 
 ## 事前課題
 上記まですすめたら
