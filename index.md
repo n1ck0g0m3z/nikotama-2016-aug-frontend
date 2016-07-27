@@ -155,6 +155,7 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 
 ## commitしてpushしてみよう
 1. gitにあなたの名前とメールアドレスを設定しましょう
+
 ```bash
 $ git config --global user.name "[あなたの名前]"
 ```
