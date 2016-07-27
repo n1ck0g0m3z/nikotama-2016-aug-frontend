@@ -116,11 +116,12 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 
 ## アプリを動かしてみよう 
 1. ファイルの場所を探そう
+
 ```bash
 $ pwd 
 ```
-
 そうすると。。下記のような表示になるとおもいます
+
 ```bash
 /c/Users/fumikazu.fujiwara/nikotama-2016-aug-frontend/ 
 ```
