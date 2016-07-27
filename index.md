@@ -156,32 +156,32 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 ## commitしてpushしてみよう
 1. gitにあなたの名前とメールアドレスを設定しましょう
 
-	```bash
+```bash
 	$ git config --global user.name "[あなたの名前]"
-	```
+```
 
-	```bash
+```bash
 	$ git config --global user.email [あなたのメールアドレス]
-	```
+```
 
 2. index.htmlを保存したら下記のコマンドをうってみよう
 
-	```bash
+```bash
 	$ git commit -m 'first commit' -a
-	```
+```
 	**上級編: -m　をつけずにcommitしてみよう
 
 3. push!!
 
-	```bash
+```bash
 	git push origin master                                                         
 	Username for 'https://github.com':[あなたのアカウント]
 	Password for 'https://[あなたのアカウント]@github.com':[あなたのパスワード]
-	```
+```
 
 	そうすると下記のような表示になったら完成
 
-	```bash
+```bash
 	Counting objects: 6, done.                    
 	Delta compression using up to 2 threads.
 	Compressing objects: 100% (3/3), done.
@@ -189,7 +189,7 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
 	Total 3 (delta 2), reused 0 (delta 0)
 	To https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend.git
 	ac2f0d6..a3cdcbc  master -> master
-	```
+```
 
 4. https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend/blob/master/index.html にいって変更が反映されたことを確認してみよう
 
