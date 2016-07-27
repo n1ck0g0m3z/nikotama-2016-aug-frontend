@@ -115,7 +115,17 @@ drwxrwxr-x  8 fumikazu fumikazu 4.0K Jul 23 11:11 .git
 ```
 
 ## アプリを動かしてみよう 
-1. index.html というファイルをブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます。
+1. ファイルの場所を探そう
+```bash
+$ pwd 
+```
+
+そうすると。。下記のような表示になるとおもいます
+```bash
+/c/Users/fumikazu.fujiwara/nikotama-2016-aug-frontend/ 
+```
+
+2. つまりC:\Users\fumikazu.fujiwara\nikotama-2016-aug-frontend\index.html というファイルがアプリですこれををブラウザ(Google ChromeやFirefoxやInternet Explorerの事です)で開いてみます。
 そうすると。。　下記のような"Click ME!"というボタンがあるのでおしてみてください。
 
 {% include click_me.html %}
