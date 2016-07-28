@@ -154,6 +154,7 @@ $nikotama.get('https://api.github.com/users/freddiefujiwara',function(res){
 {% include click_me_github.html %}
 
 ## commitしてpushしてみよう
+さてまた**黒い画面**に戻りましょう!
 - gitにあなたの名前とメールアドレスを設定しましょう
 
 ```bash
