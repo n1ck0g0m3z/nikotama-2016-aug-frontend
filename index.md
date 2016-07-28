@@ -143,7 +143,7 @@ $nikotama.get('https://rawgit.com/freddiefujiwara/nikotama-2016-aug-frontend/mas
 という行を
 
 ```JavaScript
-$nikotama.get('https://api.github.com/users/freddiefujiwara',function(data){
+$nikotama.get('https://api.github.com/users/freddiefujiwara',function(res){
 ```
 
 に変更して保存しよう
