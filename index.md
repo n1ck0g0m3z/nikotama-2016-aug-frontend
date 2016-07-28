@@ -173,6 +173,13 @@ $ git commit -m 'first commit' -a
 ```
 **上級編: -m　をつけずにcommitしてみよう**
 
+そうすると。。。
+
+```bash
+[master 82cff75] first commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+```
+
 - push!!
 
 ```bash
