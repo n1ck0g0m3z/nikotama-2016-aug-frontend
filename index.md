@@ -208,7 +208,7 @@ ac2f0d6..a3cdcbc  master -> master
 ## 事前課題
 上記まですすめたら
 https://github.com/[あなたのアカウント]/nikotama-2016-aug-frontend
-をメールに返信してください
+を指定したサイボウズライブにURLを貼り付けてください
 
 ## 次のステップ下記を読んで勉強してみよう
 
