@@ -187,6 +187,9 @@ $ git push origin master
 Username for 'https://github.com':[あなたのアカウント]
 Password for 'https://[あなたのアカウント]@github.com':[あなたのパスワード]
 ```
+Windowsの方は下記のようなポップアップがでるので
+[あなたのアカウント]と[あなたのパスワード]をいれて**Login**をクリックしてください。
+![]({{site.baseurl}}/screenshots/push01.png)
 
 そうすると下記のような表示になったら完成
 
